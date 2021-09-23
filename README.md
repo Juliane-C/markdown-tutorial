@@ -31,7 +31,7 @@ Para destacar o texto, basta colocar o sinal de maior > . O texto ficará da seg
 ## Adicionando hiperlinks
 
 A criação de hiperlink se da através dos símbolos []().
-Nos parenteses [] coloca o nome da página e o link dentro do ().
+Entre os colchetes [] coloca-se o nome da página/arquivo e o link para tal vai para dentro dos parenteses ().
 O resultado será o seguinte:
 
 

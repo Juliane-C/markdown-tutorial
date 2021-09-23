@@ -21,3 +21,10 @@ Para destacar a palavra, seja em itálico ou negrito, basta colocar em torno da 
 Para *itálico* basta inserir 1 asterisco (* *) no começo e no final da palavra.
 
 Para **negrito**  basta inserir 2 asteriscos (** **) no começo e no final da palavra.
+
+## Parágrafo com destaque
+
+Para destacar o texto, basta colocar o sinal de maior > . O texto ficará da seguite forma:
+
+>Texto em destaque fica desta forma :)
+

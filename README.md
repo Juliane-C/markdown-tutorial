@@ -30,9 +30,9 @@ Para destacar o texto, basta colocar o sinal de maior > . O texto ficará da seg
 
 ## Adicionando hiperlinks
 
-A criação de hiperlink se da através dos símbolos ()[].
-Nos parenteses () coloca o nome da página e o link dentro do [].
+A criação de hiperlink se da através dos símbolos []().
+Nos parenteses [] coloca o nome da página e o link dentro do ().
 O resultado será o seguinte:
 
 
-(Google Tradutor)[https://translate.google.com.br/]
+[Google Tradutor](https://translate.google.com.br/)
